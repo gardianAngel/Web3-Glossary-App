@@ -38,7 +38,7 @@ A beautiful, interactive glossary that makes Web3 concepts accessible to everyon
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/web3-glossary.git
+   git clone https://github.com/gardianAngel/Web3-Glossary-App.git
    cd web3-glossary
    ```
 
